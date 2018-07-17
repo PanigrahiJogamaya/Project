@@ -1,0 +1,9 @@
+//
+//  Sample.json
+//  MatchChallenge
+//
+//  Created by Jogamaya Panigrahi on 7/13/18.
+//  Copyright © 2018 Jogamaya Panigrahi. All rights reserved.
+//
+
+{"results":[{"gender":"female","name":{"title":"miss","first":"delphine","last":"andersen"},"location":{"street":"334 36th ave","city":"field","state":"nova scotia","postcode":"B6I 8H0","coordinates":{"latitude":"-67.1387","longitude":"125.8317"},"timezone":{"offset":"+3:30","description":"Tehran"}},"email":"delphine.andersen@example.com","login":{"uuid":"50090157-557d-4464-89c2-731fc6d40548","username":"blackladybug318","password":"saturn","salt":"vDYqzpqL","md5":"1016ef5d1322d00aec45297312418a8d","sha1":"f810ab628319cc5315b21e7ccb626a3e9327de31","sha256":"c5ddbffc2bbaa819c99a703cfc572dab8bf6c5390a46f4b8436572f7da4fe608"},"dob":{"date":"1947-12-30T07:56:37Z","age":70},"registered":{"date":"2017-11-04T09:39:27Z","age":0},"phone":"482-032-5126","cell":"264-595-2818","id":{"name":"","value":null},"picture":{"large":"https://randomuser.me/api/portraits/women/75.jpg","medium":"https://randomuser.me/api/portraits/med/women/75.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/women/75.jpg"},"nat":"CA"}],"info":{"seed":"ec3b3f1d44a25ce5","results":1,"page":1,"version":"1.2"}}
